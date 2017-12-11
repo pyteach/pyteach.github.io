@@ -1,2 +1,2 @@
-#WZ:水乡个人博客
-测试中……
+WZ:水乡个人主页
+Git Pages 和 Markdown 用法学习
