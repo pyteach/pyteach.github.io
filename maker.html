@@ -23,8 +23,10 @@
      <script type="text/javascript">
 			$(function() {
 			    $(".flexslider").flexslider({
-					slideshowSpeed: 2000, //展示时间间隔ms
-					animationSpeed: 400, //滚动时间ms
+	                animation: "slide", 
+	                controlNav: false,
+	                animationLoop: false,
+	                itemWidth: 960, 
 					touch: true //是否支持触屏滑动
 				});
 			});	
